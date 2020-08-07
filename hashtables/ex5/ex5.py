@@ -1,14 +1,5 @@
-# Your code here
-
-
-
 def finder(files, queries):
-    """
-    YOUR CODE HERE
-    """
-    # Your code here
 
-    return result
 
 
 if __name__ == "__main__":
